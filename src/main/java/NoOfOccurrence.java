@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class NoOfOccurrence {
 
 	public static void main(String[] args) {
+		//Testing github
 		//String txt1 = "testleaf";
 		System.out.println("Enter a String and a character");
 		Scanner scan = new Scanner(System.in);
